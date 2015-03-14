@@ -1,1 +1,1 @@
-ECHO estï¿½ activado.  fddf
+ECHO est  activado.
